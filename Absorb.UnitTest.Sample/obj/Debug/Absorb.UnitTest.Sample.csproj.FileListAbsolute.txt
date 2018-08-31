@@ -1,0 +1,7 @@
+D:\个人\InCorp\Absorb\Absorb.UnitTest.Sample\bin\Debug\Absorb.UnitTest.Sample.exe.config
+D:\个人\InCorp\Absorb\Absorb.UnitTest.Sample\bin\Debug\Absorb.UnitTest.Sample.exe
+D:\个人\InCorp\Absorb\Absorb.UnitTest.Sample\bin\Debug\Absorb.UnitTest.Sample.pdb
+D:\个人\InCorp\Absorb\Absorb.UnitTest.Sample\obj\Debug\Absorb.UnitTest.Sample.csprojAssemblyReference.cache
+D:\个人\InCorp\Absorb\Absorb.UnitTest.Sample\obj\Debug\Absorb.UnitTest.Sample.csproj.CoreCompileInputs.cache
+D:\个人\InCorp\Absorb\Absorb.UnitTest.Sample\obj\Debug\Absorb.UnitTest.Sample.exe
+D:\个人\InCorp\Absorb\Absorb.UnitTest.Sample\obj\Debug\Absorb.UnitTest.Sample.pdb
