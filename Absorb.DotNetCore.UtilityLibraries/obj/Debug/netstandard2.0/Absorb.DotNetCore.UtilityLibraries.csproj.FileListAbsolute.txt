@@ -1,0 +1,9 @@
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\bin\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.deps.json
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\bin\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.dll
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\bin\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.pdb
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\obj\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.csprojAssemblyReference.cache
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\obj\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.csproj.CoreCompileInputs.cache
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\obj\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.AssemblyInfoInputs.cache
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\obj\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.AssemblyInfo.cs
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\obj\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.dll
+D:\个人\InCorp\Absorb\Absorb.DotNetCore.UtilityLibraries\obj\Debug\netstandard2.0\Absorb.DotNetCore.UtilityLibraries.pdb

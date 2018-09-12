@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.ProtoActor", "02.ProtoAc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Absorb.ProtoActor.HelloWorld", "Absorb.ProtoActor.HelloWorld\Absorb.ProtoActor.HelloWorld.csproj", "{A780545C-28A5-41D5-BC83-D5F79C934E3D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.DotNetCore", "03.DotNetCore", "{F2F29971-DF7C-4520-9265-21E88E40372D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Absorb.DotNetCore.UtilityLibraries", "Absorb.DotNetCore.UtilityLibraries\Absorb.DotNetCore.UtilityLibraries.csproj", "{D6EA6D97-0224-41FB-B84F-DE00127C6678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,10 @@ Global
 		{A780545C-28A5-41D5-BC83-D5F79C934E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A780545C-28A5-41D5-BC83-D5F79C934E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A780545C-28A5-41D5-BC83-D5F79C934E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EA6D97-0224-41FB-B84F-DE00127C6678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EA6D97-0224-41FB-B84F-DE00127C6678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EA6D97-0224-41FB-B84F-DE00127C6678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EA6D97-0224-41FB-B84F-DE00127C6678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +47,7 @@ Global
 		{FAB2F25A-D7EE-46BB-A94B-3DBA1E5B7DEB} = {FB6F41B5-3314-4FA9-BFC3-BF8D201246DC}
 		{9FA24DCE-6D27-4F71-AE33-9D688DC341BE} = {FB6F41B5-3314-4FA9-BFC3-BF8D201246DC}
 		{A780545C-28A5-41D5-BC83-D5F79C934E3D} = {BB8DD19A-8007-47FD-8893-9429E39B3FE0}
+		{D6EA6D97-0224-41FB-B84F-DE00127C6678} = {F2F29971-DF7C-4520-9265-21E88E40372D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4E3B4A66-13C8-4140-AD99-B3A830632029}
