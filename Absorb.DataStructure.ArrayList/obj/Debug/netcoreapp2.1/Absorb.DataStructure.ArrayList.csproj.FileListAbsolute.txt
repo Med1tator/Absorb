@@ -1,0 +1,11 @@
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\bin\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.deps.json
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\bin\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.runtimeconfig.json
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\bin\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.runtimeconfig.dev.json
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\bin\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.dll
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\bin\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.pdb
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\obj\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.csprojAssemblyReference.cache
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\obj\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.csproj.CoreCompileInputs.cache
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\obj\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.AssemblyInfoInputs.cache
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\obj\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.AssemblyInfo.cs
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\obj\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.dll
+D:\个人\InCorp\Absorb\Absorb.DataStructure.ArrayList\obj\Debug\netcoreapp2.1\Absorb.DataStructure.ArrayList.pdb
