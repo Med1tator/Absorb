@@ -19,7 +19,5 @@ namespace Absorb.DotNetCore.UtilityLibraries
 
             return char.IsLower(str[0]);
         }
-
-        public static GetEnum<TEnum>()
     }
 }
