@@ -15,22 +15,13 @@ namespace Absorb.UnitTest.Sample.Tests
         public void GetSumTest()
         {
             //单元测试：特定的输入能否得到预期的输出
-            Assert.IsTrue(new Calculator().GetSum(10) == 55,"Not equals 55");
+            Assert.IsTrue(new Calculator().GetSum(10) == 55, "Not equals 55");
         }
 
         [TestMethod()]
-        public void GetSumTest2()
+        public void GetSumOfTwoGetSumOfTwoTest()
         {
-            //单元测试：特定的输入能否得到预期的输出
-            //Assert.AreEqual(55, new Calculator().GetSum(10));
-
-            //string s1 = "Hello ", s2 = "World!";
-            //string str1 = "Hello World!"; string str2 = s1 + s2;
-            //Assert.AreSame(str1, str2);
-
-            //string str3=null;
-            //Assert.IsNull(str3);
-            //Assert.IsNotNull(new object());
+            Assert.AreEqual(new Calculator().GetSumOfTwo(1, 1), 2);
         }
     }
 }

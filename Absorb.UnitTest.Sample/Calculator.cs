@@ -8,6 +8,11 @@ namespace Absorb.UnitTest.Sample
 {
     public class Calculator
     {
+        public int GetSumOfTwo(int num1, int num2)
+        {
+            return num1 + num2;
+        }
+
         public int GetSum(int num)
         {
             int sum = 0;
