@@ -1,0 +1,14 @@
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\bin\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.deps.json
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\bin\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.runtimeconfig.json
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\bin\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.runtimeconfig.dev.json
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\bin\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.dll
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\bin\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.pdb
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\bin\Debug\netcoreapp2.1\Absorb.Code.Demo.dll
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\bin\Debug\netcoreapp2.1\Absorb.Code.Demo.pdb
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\obj\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.csprojAssemblyReference.cache
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\obj\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.csproj.CoreCompileInputs.cache
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\obj\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.AssemblyInfoInputs.cache
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\obj\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.AssemblyInfo.cs
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\obj\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.csproj.CopyComplete
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\obj\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.dll
+D:\个人\InCorp\Absorb\Absorb.Code.Demo.Console\obj\Debug\netcoreapp2.1\Absorb.Code.Demo.Console.pdb

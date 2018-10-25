@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Absorb.Code.Demo.Console/1.0.0": {
+        "dependencies": {
+          "Absorb.Code.Demo": "1.0.0"
+        },
+        "runtime": {
+          "Absorb.Code.Demo.Console.dll": {}
+        }
+      },
+      "Absorb.Code.Demo/1.0.0": {
+        "runtime": {
+          "Absorb.Code.Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Absorb.Code.Demo.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Absorb.Code.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

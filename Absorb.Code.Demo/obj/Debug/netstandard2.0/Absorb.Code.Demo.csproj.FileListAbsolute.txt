@@ -1,0 +1,9 @@
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\bin\Debug\netstandard2.0\Absorb.Code.Demo.deps.json
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\bin\Debug\netstandard2.0\Absorb.Code.Demo.dll
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\bin\Debug\netstandard2.0\Absorb.Code.Demo.pdb
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\obj\Debug\netstandard2.0\Absorb.Code.Demo.csprojAssemblyReference.cache
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\obj\Debug\netstandard2.0\Absorb.Code.Demo.csproj.CoreCompileInputs.cache
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\obj\Debug\netstandard2.0\Absorb.Code.Demo.AssemblyInfoInputs.cache
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\obj\Debug\netstandard2.0\Absorb.Code.Demo.AssemblyInfo.cs
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\obj\Debug\netstandard2.0\Absorb.Code.Demo.dll
+D:\个人\InCorp\Absorb\Absorb.Code.Demo\obj\Debug\netstandard2.0\Absorb.Code.Demo.pdb

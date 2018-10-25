@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Absorb.UnitTest.Sample2
 {
-    public class BlogWebApplicationFactory<TStartup>:WebApplicationFactory<TStartup> where TStartup:class
+    public class BlogWebApplicationFactory<TStartup>//:WebApplicationFactory<TStartup> where TStartup:class
     {
     }
 }
