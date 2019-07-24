@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\个人\\InCorp\\Absorb\\Absorb.Code.Demo\\Absorb.Code.Demo.csproj",
+      "projectUniqueName": "E:\\source\\repos\\Absorb\\Absorb.Code.Demo\\Absorb.Code.Demo.csproj",
       "projectName": "Absorb.Code.Demo",
-      "projectPath": "D:\\个人\\InCorp\\Absorb\\Absorb.Code.Demo\\Absorb.Code.Demo.csproj",
+      "projectPath": "E:\\source\\repos\\Absorb\\Absorb.Code.Demo\\Absorb.Code.Demo.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\个人\\InCorp\\Absorb\\Absorb.Code.Demo\\obj\\",
+      "outputPath": "E:\\source\\repos\\Absorb\\Absorb.Code.Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -200,7 +200,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://service.homepartners.com/nuget": {}
       },
       "frameworks": {
         "netstandard2.0": {
